@@ -1,0 +1,175 @@
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Ukraine conflict: Russia's Kharkiv attacks are war crimes, says Zelensky - BBC.com",
+    "description": "The Ukrainian president asks the EU to prove it is with his country, while accusing Russia of terrorism.",
+    "url": "https://www.bbc.com/news/world-europe-60579247",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B3CA/production/_123462064_destroyedcar.jpg",
+    "publishedAt": "2022-03-02T01:56:09Z",
+    "content": "Media caption, Watch: The moment Kyiv TV tower was struck by a Russian missile\r\nUkrainian President Volodymyr Zelensky has accused Russia of war crimes after air strikes, including one on a central s… [+5665 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Alison Sider, Andrew Tangel",
+    "title": "U.S. Expected to Ban Russian Flights From American Airspace - The Wall Street Journal",
+    "description": "Move follows similar prohibitions by European and Canadian authorities",
+    "url": "https://www.wsj.com/articles/u-s-expected-to-ban-russian-flights-from-american-airspace-11646178615",
+    "urlToImage": "https://images.wsj.net/im-495889/social",
+    "publishedAt": "2022-03-02T01:21:00Z",
+    "content": "The U.S. government will ban Russian aircraft from American airspace, broadening aviation restrictions as the West expands sanctions over the war in Ukraine, President Biden said Tuesday during his S… [+227 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "The Associated Press",
+    "title": "Live updates: Russia being banned from US airspace - The Associated Press - en Español",
+    "description": "The latest developments on the Russia-Ukraine war : WASHINGTON — President Joe Biden plans to announce that the U.S.",
+    "url": "https://apnews.com/article/russia-ukraine-war-live-updates-6bcdf50c08dd62a4c5305aa34d045cce",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/3b16c67bcf8b48c487692a29fb123927/3000.jpeg",
+    "publishedAt": "2022-03-02T01:13:57Z",
+    "content": "The latest developments on the Russia-Ukraine war:\r\nWASHINGTON President Joe Biden plans to announce that the U.S. is banning Russian planes from its airspace in retaliation for the Ukraine invasion,… [+21295 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Patrick Kingsley",
+    "title": "Ukraine War Sets Off Europe’s Fastest Migration in Decades - The New York Times",
+    "description": "At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s.",
+    "url": "https://www.nytimes.com/2022/03/01/world/europe/ukraine-war-migration.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/03/01/world/01Ukraine-Refugees/01Ukraine-Refugees-facebookJumbo.jpg",
+    "publishedAt": "2022-03-02T01:08:35Z",
+    "content": "If the displacement stretches out for years, it would present long-term challenges for Ukraine, which would face a brain drain of rare proportions, and for host countries where resources are limited … [+1209 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Clifford Krauss",
+    "title": "Exxon Mobil says it plans to leave its last remaining Russian project. - The New York Times",
+    "description": "BP and Shell announced earlier that they were also seeking to leave the country after its invasion of Ukraine.",
+    "url": "https://www.nytimes.com/2022/03/01/business/russia-exxon.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/03/01/multimedia/01economy-briefing-exxon/01economy-briefing-exxon-facebookJumbo.jpg",
+    "publishedAt": "2022-03-02T00:18:05Z",
+    "content": "The decisions by Exxon, BP and Shell end an era that began with the mass entry of Western companies into Russia at the end of the Cold War. The businesses once hoped the country, which has some of th… [+1277 chars]"
+    },
+    {
+    "source": {
+    "id": "the-hill",
+    "name": "The Hill"
+    },
+    "author": "Ellen Mitchell",
+    "title": "Belarus president stands in front of battle map indicating Moldova invasion plans | TheHill - The Hill",
+    "description": "Images have emerged of Belarussian President Alexander Lukashenko...",
+    "url": "https://thehill.com/policy/international/596409-belarus-president-stands-in-front-of-battle-map-indicating-moldova",
+    "urlToImage": "https://thehill.com/sites/default/files/article_images/lukashenkoalexander_030222_belarusianstateradio.jpeg",
+    "publishedAt": "2022-03-01T22:55:44Z",
+    "content": "Images have emerged of Belarussian President Alexander Lukashenko standing in front of a battle map that appears to show a planned invasion of Moldova, along with Ukraine. \r\nLukashenko, a close ally … [+1761 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Maegan Vazquez",
+    "title": "Biden set to use first State of the Union to condemn Putin for 'premeditated and unprovoked' war - CNN",
+    "description": "President Joe Biden will deliver his first State of the Union address in the US House chamber Tuesday evening, using his biggest platform of the year to condemn Russian President Vladimir Putin for invading Ukraine.",
+    "url": "https://www.cnn.com/2022/03/01/politics/sotu-biden-2022/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220228224602-biden-speech-02282022.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-03-01T22:31:00Z",
+    "content": "President Joe Biden will deliver his first State of the Union address in the US House chamber Tuesday evening, using his biggest platform of the year to condemn Russian President Vladimir Putin for i… [+7702 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Theo Wayt",
+    "title": "Apple halts sales in Russia, bans propaganda apps over Ukraine war - New York Post ",
+    "description": "Apple banned the sales of all its products in Russia on Tuesday as more companies pull out of the country.",
+    "url": "https://nypost.com/2022/03/01/apple-halts-sales-in-russia-bans-propaganda-apps-over-ukraine-war/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/apple-sales-russia-01-1.jpg?quality=90&strip=all&w=1024",
+    "publishedAt": "2022-03-01T21:38:00Z",
+    "content": "Good luck buying an iPhone in Moscow. \r\nApple banned the sales of all its products in Russia on Tuesday as more companies pull out of the country. \r\nUsers looking to order products like iPhones, iPad… [+2293 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "IndieWire"
+    },
+    "author": "Christian Zilko",
+    "title": "From ‘Batman’ to ‘Ambulance’ and ‘Morbius,’ All the Films Pulled from Release in Russia So Far - IndieWire",
+    "description": "Paramount, Disney, Warner Bros., and Sony have all pulled major releases from the Russian calendar.",
+    "url": "https://www.indiewire.com/2022/03/disney-halts-all-film-releases-russia-1234703122/",
+    "urlToImage": "https://www.indiewire.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-21-at-11.18.34-AM.png?w=780",
+    "publishedAt": "2022-03-01T21:05:00Z",
+    "content": "Update March 1, 4:05 pm: Universal has halted the release of its films in Russia, including Michael Bay’s “Ambulance” and the DreamWorks-produced animated feature “Bad Guys.” Heist thriller “Ambulanc… [+4035 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Associated Press",
+    "title": "Russia holds drills with nuclear subs, land-based missiles - Fox News",
+    "description": "Russian nuclear submarines sailed off for drills in the Barents Sea and mobile missile launchers roamed snow forests Tuesday in Siberia",
+    "url": "https://www.foxnews.com/world/russia-holds-drills-nuclear-subs-land-based-missiles",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/03/1000.jpeg",
+    "publishedAt": "2022-03-01T20:35:43Z",
+    "content": "Russian nuclear submarines sailed off for drills in the Barents Sea and mobile missile launchers roamed snow forests Tuesday in Siberia after President Vladimir Putin ordered his nations nuclear forc… [+3861 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Paul Vigna",
+    "title": "Bitcoin Demand Booms in Ukraine and Russia - The Wall Street Journal",
+    "description": "The cryptocurrency has been trading at a premium against the Ukrainian hryvnia",
+    "url": "https://www.wsj.com/articles/bitcoin-demand-booms-in-ukraine-and-russia-11646165756",
+    "urlToImage": "https://images.wsj.net/im-494881/social",
+    "publishedAt": "2022-03-01T20:15:00Z",
+    "content": "The Russian invasion of Ukraine has driven demand for cryptocurrencies in both countries, helping boost the price of bitcoin.\r\nBitcoin has been trading at a premium against the Ukrainian hryvnia on a… [+281 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Katie Hunt and Jackie Wattles, CNN",
+    "title": "Europe's Mars rover 'very unlikely' to launch in 2022 due to Ukraine invasion - CNN",
+    "description": "It's \"very unlikely\" that Europe's first planetary rover will launch in 2022, the European Space Agency said Monday, given Russia's invasion of Ukraine and the sanctions imposed on the country as a result.",
+    "url": "https://www.cnn.com/2022/03/01/world/mars-rover-esa-iss-russia-nasa-scn/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190827162810-mars-rover-built-1-super-tease.jpg",
+    "publishedAt": "2022-03-01T16:48:00Z",
+    "content": "(CNN)It's very unlikely that Europe's first planetary rover will launch in 2022, the European Space Agency said Monday, given Russia's invasion of Ukraine and the sanctions imposed on the country as … [+3189 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Yelena Dzhanova, Sonam Sheth",
+    "title": "Watch: Diplomats walk out during Russia foreign minister speech at rights council - Business Insider",
+    "description": "Diplomats from the US, UK, and EU got up and left while Russia's Sergey Lavrov gave a speech accusing the EU of engaging in \"Russo frenzy.\"",
+    "url": "https://www.businessinsider.com/watch-diplomats-walk-out-russia-lavrov-speech-human-rights-council-2022-3",
+    "urlToImage": "https://i.insider.com/621e223d75b64900184573e3?width=1200&format=jpeg",
+    "publishedAt": "2022-03-01T14:44:35Z",
+    "content": "Dozens of diplomats on Tuesday staged a walkout as Russian Foreign Minister Sergei Lavrov addressed the United Nations Human Rights Council. \r\nLavrov was giving a virtual speech at the forum in Genev… [+2665 chars]"
+    }
+    ]
+    }
